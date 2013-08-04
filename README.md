@@ -1,0 +1,4 @@
+overlay
+=======
+
+locale gentoo overlay
